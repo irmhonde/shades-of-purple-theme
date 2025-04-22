@@ -33,6 +33,6 @@ I have aimed to capture the core look and feel as closely as possible within the
 
 <div align="center">
 
-This theme is derived from the [Shades of Purple Theme](https://github.com/ahmadawais/shades-of-purple-vscode) for VSCode and is distributed under its original [LICENSE](LICENSE.md).
+This theme is derived from the [Shades of Purple Theme](https://github.com/ahmadawais/shades-of-purple-vscode) for VSCode and is distributed under its original [LICENSE](LICENSE).
 
 </div>
