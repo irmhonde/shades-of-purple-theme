@@ -747,7 +747,7 @@
         "terminal.foreground": "#FFFFFF",
         "text": "#ffffff",
         "text.accent": "#fad000",
-        "text.disabled": "#fff",
+        "text.disabled": "#818b98ff",
         "text.muted": "#A599E9",
         "text.placeholder": "#A599E9",
         "title_bar.background": "#1e1e3f",
