@@ -4,7 +4,6 @@
 
 <div align="center">
 
-[![GitHub License](https://img.shields.io/github/license/irmhonde/shades-of-purple-theme?style=for-the-badge)](LICENSE.md)
 ![GitHub Stars](https://img.shields.io/github/stars/irmhonde/shades-of-purple-theme?style=for-the-badge&logo=github)
 
 <img src="assets/super-dark.png" alt="shades of purple for zed super dark theme screenshot" width="1920" />
@@ -33,6 +32,6 @@ I have aimed to capture the core look and feel as closely as possible within the
 
 <div align="center">
 
-These theme is derived from the [Shades of Purple Theme](https://github.com/ahmadawais/shades-of-purple-vscode) for VSCode and is distributed under its original [LICENSE](LICENSE.md).
+This theme is derived from the [Shades of Purple Theme](https://github.com/ahmadawais/shades-of-purple-vscode) for VSCode and is distributed under its original [LICENSE](LICENSE.md).
 
 </div>
