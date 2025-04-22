@@ -317,7 +317,7 @@
             "color": "#E1EFFF"
           },
           "string": {
-            "color": "#A5FF90"
+            "color": "#92FC79"
           },
           "string.escape": {
             "color": "#3AD900"
@@ -337,7 +337,7 @@
             "color": "#9EFFFF"
           },
           "tag": {
-            "color": "#A5FF90"
+            "color": "#9EFFFF"
           },
           "tag.attribute": {
             "color": "#A5FF90",
@@ -930,7 +930,7 @@
             "color": "#E1EFFF"
           },
           "string": {
-            "color": "#A5FF90"
+            "color": "#92FC79"
           },
           "string.escape": {
             "color": "#3AD900"
@@ -950,7 +950,7 @@
             "color": "#9EFFFF"
           },
           "tag": {
-            "color": "#A5FF90"
+            "color": "#9EFFFF"
           },
           "tag.attribute": {
             "color": "#A5FF90",
