@@ -4,6 +4,7 @@
 
 <div align="center">
 
+[![GitHub License](https://img.shields.io/github/license/irmhonde/shades-of-purple-theme?style=for-the-badge)](LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/irmhonde/shades-of-purple-theme?style=for-the-badge&logo=github)
 
 <img src="assets/super-dark.png" alt="shades of purple for zed super dark theme screenshot" width="1920" />
