@@ -547,12 +547,12 @@
             "color": "#80FFBB"
           },
           "punctuation.special": {
-            "color": "#ffffff",
+            "color": "#9EFFFF",
             "font_style": null,
             "font_weight": null
           },
           "punctuation.special.symbol": {
-            "color": "#ffffff",
+            "color": "#9EFFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -1160,12 +1160,12 @@
             "color": "#80FFBB"
           },
           "punctuation.special": {
-            "color": "#ffffff",
+            "color": "#9EFFFF",
             "font_style": null,
             "font_weight": null
           },
           "punctuation.special.symbol": {
-            "color": "#ffffff",
+            "color": "#9EFFFF",
             "font_style": null,
             "font_weight": null
           },
