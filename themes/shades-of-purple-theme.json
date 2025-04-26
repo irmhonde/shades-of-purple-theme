@@ -52,7 +52,7 @@
         "error.background": "#131327",
         "error.border": "#EC3A37F5",
         "ghost_element.active": "#191830",
-        "ghost_element.background": "#ffffff00",
+        "ghost_element.background": "#00000000",
         "ghost_element.disabled": "#eff2f5ff",
         "ghost_element.hover": "#1c1b36",
         "ghost_element.selected": "#191830",
