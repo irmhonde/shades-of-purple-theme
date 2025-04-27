@@ -667,7 +667,7 @@
         "ghost_element.active": "#1e1e3f",
         "ghost_element.background": "#00000000",
         "ghost_element.disabled": "#eff2f5ff",
-        "ghost_element.hover": "#2d2b55",
+        "ghost_element.hover": "#28284e",
         "ghost_element.selected": "#28284e",
         "hidden": "#818b98ff",
         "hidden.background": "#1e1e3f",
