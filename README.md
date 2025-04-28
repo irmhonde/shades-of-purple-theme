@@ -1,11 +1,16 @@
 <h1 align="center">
-  Shades of Purple Theme for Zed
+
+Shades of Purple Theme for [Zed](https://zed.dev/)
+
 </h1>
 
 <div align="center">
 
-[![GitHub License](https://img.shields.io/github/license/irmhonde/shades-of-purple-theme?style=for-the-badge)](LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/irmhonde/shades-of-purple-theme?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/issues/irmhonde/shades-of-purple-theme?colorA=191830&colorB=1e1e3f&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/irmhonde/shades-of-purple-theme?colorA=191830&colorB=222244&style=for-the-badge)
+[![GitHub License](https://img.shields.io/github/contributors/irmhonde/shades-of-purple-theme?colorA=191830&colorB=2d2b55&style=for-the-badge)](LICENSE)
+
+</div>
 
 <img src="assets/super-dark.png" alt="shades of purple for zed super dark theme screenshot" width="1920" />
 
@@ -15,24 +20,19 @@ Icon Theme: [Monospace Icon Theme](https://github.com/irmhonde/monospace-icon-th
 
 Icon Theme: [Monospace Icon Theme](https://github.com/irmhonde/monospace-icon-theme)
 
-</div>
+## Usage
 
-## Limitations
-
-While significant effort has been made to replicate the original aesthetic, Zed's current theming engine and API have certain limitations compared to the extensive customization options available in VS Code.
-
-Consequently, you may observe subtle variations in:
-
-- **Syntax Highlighting Nuances:** Specific scopes or language elements might not be colored identically due to differences in how Zed tokenizes code or the available targeting options within its theme format.
-- **UI Element Coloring:** Certain UI components, panels, or decorative elements may not fully match the VS Code theme's coloring. Zed's theming API does not expose granular control over those specific areas.
-- **Semantic Highlighting:** The degree and precision of semantic highlighting (coloring based on symbol meaning rather than just syntax) will differ depending on Zed's built-in language server capabilities and theme integration points.
-
-I have aimed to capture the core look and feel as closely as possible within the constraints of Zed's current theming capabilities. As Zed's theming API matures, updates may be released to improve fidelity where possible.
+1. Open Zed.
+2. Open the command palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and enter _zed: extensions_.
+3. Search for the _Shades of Purple Theme_ extension and install.
+4. Enter _theme selector: toggle_ in the command palette and select the Shades of Purple theme in your preferred flavor in the dropdown.
 
 ---
 
 <div align="center">
 
 This theme is derived from the [Shades of Purple Theme](https://github.com/ahmadawais/shades-of-purple-vscode) for VSCode and is distributed under its original [LICENSE](LICENSE).
+
+[![GitHub License](https://img.shields.io/github/license/irmhonde/shades-of-purple-theme?colorA=191830&colorB=2d2b55&style=for-the-badge)](LICENSE)
 
 </div>
