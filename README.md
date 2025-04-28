@@ -4,13 +4,11 @@ Shades of Purple Theme for [Zed](https://zed.dev/)
 
 </h1>
 
-<div align="center">
-
-![GitHub Stars](https://img.shields.io/github/issues/irmhonde/shades-of-purple-theme?colorA=191830&colorB=1e1e3f&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/irmhonde/shades-of-purple-theme?colorA=191830&colorB=222244&style=for-the-badge)
-[![GitHub License](https://img.shields.io/github/contributors/irmhonde/shades-of-purple-theme?colorA=191830&colorB=2d2b55&style=for-the-badge)](LICENSE)
-
-</div>
+<p align="center">
+    <a href="https://github.com/irmhonde/shades-of-purple-theme/issues"><img src="https://img.shields.io/github/issues/irmhonde/shades-of-purple-theme?colorA=191830&colorB=1e1e3f&style=for-the-badge"></a>
+    <a href="https://github.com/irmhonde/shades-of-purple-theme/stargazers"><img src="https://img.shields.io/github/stars/irmhonde/shades-of-purple-theme?colorA=191830&colorB=222244&style=for-the-badge"></a>
+    <a href="https://github.com/irmhonde/shades-of-purple-theme/contributors"><img src="https://img.shields.io/github/contributors/irmhonde/shades-of-purple-theme?colorA=191830&colorB=2d2b55&style=for-the-badge"></a>
+</p>
 
 <img src="assets/super-dark.png" alt="shades of purple for zed super dark theme screenshot" width="1920" />
 
