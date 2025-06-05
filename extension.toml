@@ -1,6 +1,6 @@
 id = "shades-of-purple-theme"
 name = "Shades of Purple Theme"
-version = "0.0.5"
+version = "0.0.6"
 schema_version = 1
 description = "Shades of purple theme for Zed"
 repository = "https://github.com/irmhonde/shades-of-purple-theme"
